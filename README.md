@@ -1,2 +1,3 @@
-# toobz-app
-Website for the game Toobz
+# Toobz
+Welcome to the game Toobz!
+
